@@ -8,9 +8,15 @@ My name is Hamza Farooq and I love 'Swift' programming. I always try to implemen
 
 Showing time in a unique way using swift programming language
 
-### GIF View
+## GIF View
+
+## iPad
 
 ![](Media/NewClock.gif)
+
+## iPhone
+
+![](Media/iPhones.gif)
 
 ### Image View
 
@@ -22,7 +28,7 @@ The main file contains only 125 lines of code so yeah this is pretty cool right.
 
 ## Example
 
-Project files are attached. Simply download the project and see the magic happening. Currently the project only supports iPad.
+Project files are attached. Simply download the project and see the magic happening. Supports iPad and iPhone.
 
 ## Contributions
 

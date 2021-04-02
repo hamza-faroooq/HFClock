@@ -10,15 +10,15 @@ Showing time in a unique way using swift programming language
 
 ## GIF View
 
-## iPad
+### iPad
 
 ![](Media/NewClock.gif)
 
-## iPhone
+### iPhone
 
 ![](Media/iPhones.gif)
 
-### Image View
+## Image View
 
 ![](Media/SS.png)
 
